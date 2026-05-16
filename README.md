@@ -1,4 +1,4 @@
-# EDS_[StudentNumber]_[Surname]
+# EDS_TUPM-25-0476_Legaspi
 ## ROB-03: Kinematic Repeatability Error — Engineering Data Systems Pipeline
 **Course:** Computer Programming | **Academic Year:** 2026
 
@@ -24,7 +24,7 @@ This retains **1,395 rows** (9.30%) from the original 15,000-row dataset.
 
 ## Repository Structure
 ```
-EDS_[StudentNum]_[Surname]/
+EDS_TUPM-25-0476_Legaspi/
 ├── main.py                   # Full Python pipeline (OOP, 4 classes)
 ├── requirements.txt          # Required libraries
 ├── data/
@@ -46,8 +46,8 @@ EDS_[StudentNum]_[Surname]/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/[YourUsername]/EDS_[StudentNum]_[Surname].git
-cd EDS_[StudentNum]_[Surname]
+git clone https://github.com/AlbertWayne/EDS_TUPM-25-0476_Legaspi.git
+cd EDS_[StudentNum]_[Surname] # EDS_TUPM-25-0476_Legaspi (File Name)
 ```
 
 ### 2. Install dependencies
